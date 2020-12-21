@@ -43,16 +43,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
-	    <repository>
-	        <id>central</id>
-	        <name>cobra.duhamel-releases</name>
-	        <url>http://cobra.duhamel:8081/artifactory/nexus</url>
-	    </repository>
-	    <snapshotRepository>
-	        <id>snapshots</id>
-	        <name>cobra.duhamel-snapshots</name>
-	        <url>http://cobra.duhamel:8081/artifactory/nexus</url>
-	    </snapshotRepository>
-	</distributionManagement>
 </project>
